@@ -1,0 +1,36 @@
+* {margin:0;
+padding: 0;}
+
+h1 {
+    font-family: cursive;
+    font-weight:bold;
+    font-size: 200%;
+    color: rgb(11, 0, 2);
+    text-align: center;
+    color: azure;
+    
+}
+
+.header {
+    background: linear-gradient(135deg, #252424 50%, rgb(3, 63, 63) 50%);
+    height: 400%;
+    width: auto;
+    padding: 2%;
+    position: sticky;
+    top:0;
+}
+
+.contents{
+    display: flex;
+    align-items:center;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    
+}
+.contents img{
+    width:30%;
+    height:48%;
+    margin: 5px 0;
+      
+}
+ 
