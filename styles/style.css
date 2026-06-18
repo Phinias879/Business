@@ -27,7 +27,6 @@ h1 {
     flex-wrap: wrap;
     gap: 2px;
     
-    
 }
 .contents img{
     width:30%;
@@ -35,8 +34,20 @@ h1 {
     margin: 8px 0;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
     
+}
+.footer{
+    background-color: teal;
+    padding: 25px;
+    color: whitesmoke;
+}
+.footer p{
+    font-size: 140%;
+}
+.footer a, img{ 
+    width: 5%;
+    text-decoration: none;
+    color: whitesmoke;
+    margin:  20px 0 2px;
     
-
-      
 }
  
